@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philippimelanth02bindgoog_0026.png"; bbox 0 0 4650 5894; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 527 2531 825 2585">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 527 2531 825 2585">
+     <span class='ocr_line' id='line_1_1' title="bbox 527 2531 825 2585; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 693 2532 825 2575; x_wconf 54' lang='lat' dir='ltr'>wa</span> <span class='ocrx_word' id='word_1_2' title='bbox 629 2531 687 2585; x_wconf 61' lang='lat'>2⁴⁶5</span> <span class='ocrx_word' id='word_1_3' title='bbox 591 2534 621 2576; x_wconf 57' lang='grc' dir='ltr'><em>ἲ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 527 2536 600 2584; x_wconf 56' lang='lat'>5·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2057 4311">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2057 4311">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2057 4311; textangle 180"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 2057 4311; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
